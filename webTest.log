@@ -1,0 +1,75 @@
+2021-05-15 14:01:40 INFO  App:59 - Open: https://rover.ws/
+2021-05-15 14:01:43 INFO  App:21 - Start indexPageIsNotAuthorized elementsOnClickTests.
+2021-05-15 14:01:43 INFO  App:18 - Test with element: href /fast-exchange: TRUE
+2021-05-15 14:01:48 INFO  App:18 - Test with element: href /trade: TRUE
+2021-05-15 14:01:54 INFO  App:18 - Test with element: href /sing in: TRUE
+2021-05-15 14:02:00 INFO  App:18 - Test with element: href /sing up: TRUE
+2021-05-15 14:02:05 INFO  App:47 - Test with element: href /language: TRUE
+2021-05-15 14:02:07 INFO  App:51 - Test change language on English: TRUE
+2021-05-15 14:02:09 INFO  App:55 - Test change language on Russian: TRUE
+2021-05-15 14:02:12 INFO  App:18 - Test with element: href /support: TRUE
+2021-05-15 14:02:17 INFO  App:18 - Test with element: href /terms-use: TRUE
+2021-05-15 14:02:22 INFO  App:18 - Test with element: href /privacy-policy: TRUE
+2021-05-15 14:02:27 INFO  App:18 - Test with element: href /aml-policy: TRUE
+2021-05-15 14:02:32 INFO  App:18 - Test with element: href footer__fast-exchange: TRUE
+2021-05-15 14:02:38 INFO  App:18 - Test with element: href footer__walet: TRUE
+2021-05-15 14:02:44 INFO  App:18 - Test with element: href comissions: TRUE
+2021-05-15 14:02:49 INFO  App:18 - Test with element: href about: TRUE
+2021-05-15 14:02:54 INFO  App:18 - Test with element: href contacts: TRUE
+2021-05-15 14:03:00 INFO  App:18 - Test with element: href VK: TRUE
+2021-05-15 14:03:07 INFO  App:18 - Test with element: href Instagram: TRUE
+2021-05-15 14:03:13 INFO  App:18 - Test with element: href Facebook: TRUE
+2021-05-15 14:03:20 INFO  App:18 - Test with element: href Twitter: TRUE
+2021-05-15 14:03:26 INFO  App:18 - Test with element: href Telegram: TRUE
+2021-05-15 14:03:30 INFO  App:130 - Finish indexPageIsNotAuthorized elementsOnClickTests.
+2021-05-15 14:03:31 INFO  App:88 - Tests take - мс: 116193
+2021-05-15 14:10:42 INFO  App:55 - Open: https://rover.ws/
+2021-05-15 14:10:45 INFO  App:21 - Start indexPageIsNotAuthorized elementsOnClickTests.
+2021-05-15 14:10:45 INFO  App:18 - Test with element: href /fast-exchange: TRUE
+2021-05-15 14:10:50 INFO  App:18 - Test with element: href /trade: TRUE
+2021-05-15 14:10:56 INFO  App:18 - Test with element: href /sing in: TRUE
+2021-05-15 14:11:02 INFO  App:18 - Test with element: href /sing up: TRUE
+2021-05-15 14:11:08 INFO  App:47 - Test with element: href /language: TRUE
+2021-05-15 14:11:10 INFO  App:51 - Test change language on English: TRUE
+2021-05-15 14:11:12 INFO  App:55 - Test change language on Russian: TRUE
+2021-05-15 14:11:14 INFO  App:18 - Test with element: href /support: TRUE
+2021-05-15 14:11:19 INFO  App:18 - Test with element: href /terms-use: TRUE
+2021-05-15 14:11:24 INFO  App:18 - Test with element: href /privacy-policy: TRUE
+2021-05-15 14:11:29 INFO  App:18 - Test with element: href /aml-policy: TRUE
+2021-05-15 14:11:35 INFO  App:18 - Test with element: href footer__fast-exchange: TRUE
+2021-05-15 14:11:40 INFO  App:18 - Test with element: href footer__walet: TRUE
+2021-05-15 14:11:46 INFO  App:18 - Test with element: href comissions: TRUE
+2021-05-15 14:11:51 INFO  App:18 - Test with element: href about: TRUE
+2021-05-15 14:11:56 INFO  App:18 - Test with element: href contacts: TRUE
+2021-05-15 14:12:03 INFO  App:18 - Test with element: href VK: TRUE
+2021-05-15 14:12:09 INFO  App:18 - Test with element: href Instagram: TRUE
+2021-05-15 14:12:15 INFO  App:18 - Test with element: href Facebook: TRUE
+2021-05-15 14:12:22 INFO  App:18 - Test with element: href Twitter: TRUE
+2021-05-15 14:12:28 INFO  App:18 - Test with element: href Telegram: TRUE
+2021-05-15 14:12:31 INFO  App:130 - Finish indexPageIsNotAuthorized elementsOnClickTests.
+2021-05-15 14:12:32 INFO  App:85 - Tests take - мс: 03:01:53:740
+2021-05-15 14:16:46 INFO  App:55 - Open: https://rover.ws/
+2021-05-15 14:16:49 INFO  App:21 - Start indexPageIsNotAuthorized elementsOnClickTests.
+2021-05-15 14:16:49 INFO  App:18 - Test with element: href /fast-exchange: TRUE
+2021-05-15 14:16:54 INFO  App:18 - Test with element: href /trade: TRUE
+2021-05-15 14:17:00 INFO  App:18 - Test with element: href /sing in: TRUE
+2021-05-15 14:17:06 INFO  App:18 - Test with element: href /sing up: TRUE
+2021-05-15 14:17:11 INFO  App:47 - Test with element: href /language: TRUE
+2021-05-15 14:17:13 INFO  App:51 - Test change language on English: TRUE
+2021-05-15 14:17:15 INFO  App:55 - Test change language on Russian: TRUE
+2021-05-15 14:17:17 INFO  App:18 - Test with element: href /support: TRUE
+2021-05-15 14:17:22 INFO  App:18 - Test with element: href /terms-use: TRUE
+2021-05-15 14:17:28 INFO  App:18 - Test with element: href /privacy-policy: TRUE
+2021-05-15 14:17:33 INFO  App:18 - Test with element: href /aml-policy: TRUE
+2021-05-15 14:17:38 INFO  App:18 - Test with element: href footer__fast-exchange: TRUE
+2021-05-15 14:17:44 INFO  App:18 - Test with element: href footer__walet: TRUE
+2021-05-15 14:17:49 INFO  App:18 - Test with element: href comissions: TRUE
+2021-05-15 14:17:54 INFO  App:18 - Test with element: href about: TRUE
+2021-05-15 14:18:00 INFO  App:18 - Test with element: href contacts: TRUE
+2021-05-15 14:18:06 INFO  App:18 - Test with element: href VK: TRUE
+2021-05-15 14:18:12 INFO  App:18 - Test with element: href Instagram: TRUE
+2021-05-15 14:18:19 INFO  App:18 - Test with element: href Facebook: TRUE
+2021-05-15 14:18:25 INFO  App:18 - Test with element: href Twitter: TRUE
+2021-05-15 14:18:31 INFO  App:18 - Test with element: href Telegram: TRUE
+2021-05-15 14:18:35 INFO  App:130 - Finish indexPageIsNotAuthorized elementsOnClickTests.
+2021-05-15 14:18:36 INFO  App:85 - Tests take: 1 minutes : 113 seconds
